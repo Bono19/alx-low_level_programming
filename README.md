@@ -1,1 +1,1 @@
-bini1
+This is a repository on C programming language
